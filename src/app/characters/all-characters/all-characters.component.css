@@ -1,0 +1,26 @@
+.hero-card {
+  max-width: 400px;
+}
+
+
+.example-header-image {
+  background-size: cover;
+}
+
+.col-sm-4 {
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+*, :after, :before {
+    box-sizing: border-box;
+}
+
+.warning    {
+    color: #f44336;
+}
+
+.search-field {
+    width: 100%;
+    max-width: 576px;
+}
