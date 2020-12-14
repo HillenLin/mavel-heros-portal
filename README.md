@@ -13,7 +13,7 @@ This Angular Application has been deployed to Github Pages. Please review this l
 2. install angular CLI if your computer does not have it, open terminal window in visual code, run "npm install -g @angular/cli@7.3.10"
 3. Run "npm install" to install all necessary node modules
 4. Run "ng serve" to run the project, default port is 4200
-5. Supported Browser: Chrome, Firefox, Safari, IE
+5. Supported Browser: Chrome, Firefox, Safari
 
 # Brief introduction
 
