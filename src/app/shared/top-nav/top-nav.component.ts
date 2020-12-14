@@ -16,7 +16,7 @@ export class TopNavComponent implements OnInit {
             menuRouter: '/characters',
         },
         {
-            menuName: 'Leader Board',
+            menuName: 'Leaderboard',
             menuRouter: '/leader-board-main',
         },
     ]
