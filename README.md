@@ -3,6 +3,10 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 It uses Marvel Public Developer APIs (https://gateway.marvel.com/v1/public/characters/).
 
+# Deployed URL
+
+This Angular Application has been deployed to Github Pages. Please review this link: https://hillenlin.github.io/mavel-heros-portal/ to check.
+
 # How to use
 
 1. Using Visual Code to open this folder
